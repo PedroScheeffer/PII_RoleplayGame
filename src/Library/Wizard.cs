@@ -10,9 +10,6 @@ namespace PII_Roleplay
             this.name = name;
             this.health = health;
         }
-
-        SpellBook spellBook;
-
         public static void Attack()
         {
 
