@@ -1,28 +1,6 @@
-namespace PII_Roleplay
+using System;
+
+public class Item
 {
-    class Item
-    {
-        public class Ropa
-        {
-            int defence;
-        }
-
-        public class Armas
-        {
-            int defence;
-        }
-
-        public class SpellBook
-        {
-           
-        }
-         
-        
-
-
-        
-
-
-    }
     
 }
