@@ -16,6 +16,16 @@ namespace PII_Roleplay
             this.defence=defence1;
             this.mana=mana;
         }
+
+         public int getdefence()
+        {
+            return(defence);
+        }
+
+        public bool curarse()
+        {
+            return(health==100);
+        }
          
     }
 }

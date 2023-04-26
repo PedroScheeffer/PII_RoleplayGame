@@ -18,5 +18,10 @@ namespace PII_Roleplay
         {
             return(defence);
         }
+
+        public bool curarse()
+        {
+            return(health==100);
+        }
     }
 }
