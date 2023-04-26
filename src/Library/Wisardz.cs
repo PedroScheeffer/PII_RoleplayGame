@@ -6,7 +6,7 @@ namespace PII_Roleplay
         int health;
         int defence;
         int mana;
-        SpellBook spellBook;
+        
          
     }
 }

@@ -5,7 +5,8 @@ namespace PII_Roleplay
         string name;
         int health;
         int defence;
-        int mana;
-  
+        int mana; 
     }
+
+
 }
