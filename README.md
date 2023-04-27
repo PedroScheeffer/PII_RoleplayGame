@@ -43,6 +43,8 @@ En equipo, modelen las clases y las colaboraciones que son necesarias para repre
 Recuerden: los personajes deben poder tener items. Por ejemplo, los magos pueden tener un bastón mágico, un libro de hechizos (con hechizos), etc.
 
 Deberán crear y subir al repositorio el modelo en forma de diagrama de clases.
+![roleplay I drawio](https://user-images.githubusercontent.com/127800652/234717555-072664c2-4797-4ad5-adc0-f9d198d494c8.svg)
+
 
 ## Parte 2: Creación
 
