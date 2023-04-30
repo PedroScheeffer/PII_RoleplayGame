@@ -44,6 +44,7 @@ Recuerden: los personajes deben poder tener items. Por ejemplo, los magos pueden
 
 Deberán crear y subir al repositorio el modelo en forma de diagrama de clases.
 ![roleplay I drawio](https://user-images.githubusercontent.com/127800652/234717555-072664c2-4797-4ad5-adc0-f9d198d494c8.svg)
+![Drawing 2023-04-30 15 28 26 excalidraw](https://user-images.githubusercontent.com/127800652/235372753-1725b3d2-2867-4060-90ab-f5dc0e84cc1d.svg)
 
 
 ## Parte 2: Creación
