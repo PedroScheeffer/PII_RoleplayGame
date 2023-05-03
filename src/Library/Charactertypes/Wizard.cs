@@ -17,5 +17,8 @@ namespace PII_Roleplay
         {
 
         }
+        public void useSpell(string spellName){
+            spellbook.getSpell(spellName).useSpell();
+        }
     }
 }
