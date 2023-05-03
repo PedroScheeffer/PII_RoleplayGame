@@ -8,12 +8,13 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v2
-    - name: Configurando .Net 5...
+      with:
+        node-version: '16'
+    - name: Configurando .Net 6...
       uses: actions/setup-dotnet@v2
     - name: Install .NET SDK
       run: |
@@ -33,4 +34,3 @@ jobs:
       run: dotnet build --configuration Release --no-restore
     - name: Ejecutando Tests...
       run: dotnet test --no-restore --verbosity normal
-
